@@ -1,0 +1,52 @@
+{
+  "semilla": 42,
+  "n_desarrollo": 4157,
+  "n_auditoria_reservada": 1040,
+  "n_folds": 3,
+  "configuraciones": 6,
+  "ajustes_cv": 18,
+  "mejor": {
+    "k": 3,
+    "distancia": "manhattan",
+    "f1_macro": 0.7888706998400041,
+    "accuracy": 0.8878999278325715,
+    "precision_1": 0.6512345679012346,
+    "recall_1": 0.6374622356495468,
+    "f1_1": 0.6442748091603053,
+    "f1_media_folds": 0.788828173315031,
+    "f1_std_folds": 0.010136029921865405,
+    "ajuste_medio_s": 0.005952922666741263,
+    "inferencia_media_s": 0.04233509466666874,
+    "ajuste_total_s": 0.01785876800022379,
+    "inferencia_total_s": 0.1270052840000062,
+    "tiempo_total_s": 0.1653105429995776
+  },
+  "matriz_confusion_oof": [
+    [
+      3269,
+      226
+    ],
+    [
+      240,
+      422
+    ]
+  ],
+  "referencia_mayoritaria": {
+    "f1_macro": 0.4567433350757972,
+    "accuracy": 0.8407505412557132,
+    "precision_1": 0.0,
+    "recall_1": 0.0,
+    "f1_1": 0.0
+  },
+  "auditoria_grupos": {
+    "f1_macro": 0.7818803709637949,
+    "accuracy": 0.886937695453452,
+    "precision_1": 0.6573770491803279,
+    "recall_1": 0.6057401812688822,
+    "f1_1": 0.6305031446540881
+  },
+  "tiempo_busqueda_s": 0.9427840260000266,
+  "tiempo_auditoria_grupos_s": 0.4494892439997784,
+  "tiempo_momento3_s": 1.6591030849999697,
+  "tiempo_notebook_acumulado_s": 8.153519869999855
+}
