@@ -1,0 +1,11 @@
+operacion,segundos
+carga_y_seleccion_s,0.01591164799992839
+ajuste_auditoria_s,0.012218017999657604
+inferencia_auditoria_s,0.060878143000081764
+metricas_auditoria_s,0.0061152240004958
+ajuste_final_s,0.015671344999645953
+inferencia_test_s,0.08317819500007317
+guardar_modelo_csv_s,0.02500732600037736
+verificacion_csv_modelo_s,0.09051574799923401
+reportes_s,0.19716399499975523
+total_momento6_s,0.526496004999899
