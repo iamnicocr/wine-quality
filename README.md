@@ -1,8 +1,8 @@
 # Wine Quality | MP5 — Grupo #4
 
-## Avance 4: configuración, EDA, baseline, ratios, PCA y modelos avanzados
+## Desarrollo completo: configuración, EDA, baseline, ratios, PCA, modelos avanzados y entrega final
 
-Clasificación supervisada de vinos de calidad estándar (0) y superior (1). La métrica principal es F1 Macro. Este avance acumulado corresponde a los minutos 0–100 de la guía: configuración inicial, EDA, baseline k-NN e ingeniería de características y modelos avanzados. No se generan predicciones del test público.
+Clasificación supervisada de vinos de calidad estándar (0) y superior (1). La métrica principal es F1 Macro. El proyecto cubre los momentos 1–6 de la guía: configuración, EDA, baseline, ingeniería de características, modelos avanzados y entrega final.
 
 ### Datos
 
@@ -141,4 +141,82 @@ La búsqueda de k-NN reutiliza distancias. Los registros `cache_vecinos` miden e
 - `resultados/avanzado_comparacion.png`: progresión y matriz de confusión.
 - `resultados/tiempo_notebook_avance4.json`: tiempo total de notebook.
 
-Siguiente momento: selección definitiva, reajuste, Streamlit y archivo `entregas/submission_Grupo#4.csv`.
+
+
+### Momento 6 — Selección definitiva y entregables (100–120 min)
+
+El ganador se fija por el mayor F1 Macro OOF entre los candidatos elegibles verificados en el momento 5. No se amplía la búsqueda ni se ajusta nuevamente el umbral. Se audita con las 1.040 muestras apartadas de la búsqueda, se reajusta con las 5.197 muestras etiquetadas y se predice el test de 1.300 filas. No se utilizan etiquetas externas ni se evalúa el conjunto oculto.
+
+**Modelo definitivo:** k-NN con k=100, distancia euclidiana, pesos inversos cúbicos, tres ratios, StandardScaler, PCA con retención mínima del 95% y umbral 0,40. El ajuste final conserva 9 componentes y 95.84% de varianza. Si la distancia es cero, únicamente votan los vecinos coincidentes. La predicción superior ocurre cuando el voto ponderado normalizado alcanza el umbral. El voto no es una probabilidad calibrada.
+
+| Métrica | OOF (selección) | Auditoría final |
+|---|---:|---:|
+| F1 Macro | 0.8504 | 0.8659 |
+| Accuracy | 0.9192 | 0.9279 |
+| Precision clase superior | 0.7411 | 0.7725 |
+| Recall clase superior | 0.7568 | 0.7771 |
+| F1 clase superior | 0.7489 | 0.7748 |
+
+La auditoría agrupada del momento 5 obtiene F1 Macro 0.8105. Holdout separado del ajuste y selección de esta secuencia; ya fue consultado en el prototipo inicial y el EDA global usó train completo. No equivale a una evaluación ciega ni al leaderboard. El prototipo anterior llegó a 0.8701 en la misma partición con otro modelo; no se utiliza esa observación para cambiar la selección por OOF. La diferencia no prueba que uno u otro generalice mejor al test oculto.
+
+#### Submission
+
+`entregas/submission_Grupo#4.csv`: 1300 observaciones, 1301 líneas incluyendo encabezado, dos columnas (`id`, `prediction`), 1073 predicciones estándar y 227 superiores. Se verificaron identificadores, orden, ausencia de nulos, clases binarias, hash y coincidencia con las predicciones del modelo recargado. El resultado del leaderboard no se conoce.
+
+#### Tiempos del cierre
+
+| Operación | Segundos |
+|---|---:|
+| carga_y_seleccion_s | 0.015912 |
+| ajuste_auditoria_s | 0.012218 |
+| inferencia_auditoria_s | 0.060878 |
+| metricas_auditoria_s | 0.006115 |
+| ajuste_final_s | 0.015671 |
+| inferencia_test_s | 0.083178 |
+| guardar_modelo_csv_s | 0.025007 |
+| verificacion_csv_modelo_s | 0.090516 |
+| reportes_s | 0.197164 |
+| total_momento6_s | 0.526496 |
+
+#### Tiempos acumulados (sin arranque de kernel)
+
+| Momento | Segundos |
+|---|---:|
+| momento2_eda | 2.183418 |
+| momento3_baseline | 1.575110 |
+| momento4_feature_pca | 9.423234 |
+| momento5_avanzado | 38.051365 |
+| momento6_cierre | 0.526496 |
+| **Total computacional** | **51.759622** |
+
+La evidencia del avance 4 se conserva sin repetir la búsqueda: 54.868 s de notebook anterior y 4.062 s de ejecución de las celdas de cierre en otro kernel (suma 58.930 s). No es una ejecución íntegra nueva ni tiempo de trabajo humano. Los tiempos de configuración humana y del pitch no se midieron. Total de 593 configuraciones evaluadas por etapa, contando repeticiones entre etapas (6 + 54 + 533).
+
+#### Ejecutar el resultado final
+
+Desde la raíz del repositorio, después de instalar las dependencias:
+
+```powershell
+.\.venv\Scripts\python.exe -m streamlit run app/app.py
+```
+
+El modelo ya está guardado: no se necesita volver a entrenar. Para comprobar el CSV:
+
+```powershell
+.\.venv\Scripts\python.exe verificar.py
+```
+
+Para reproducir únicamente el cierre sin repetir la búsqueda:
+
+```powershell
+.\.venv\Scripts\python.exe finalizar.py
+```
+
+El notebook conserva los resultados ejecutados de los momentos 1–5 y las celdas ejecutadas del cierre. Si se desea reproducir toda la búsqueda, reiniciar el kernel y ejecutar todas las celdas. El código de la aplicación se compiló y se verificaron sus datos y el predictor serializado; Streamlit no estaba instalado en el entorno de ejecución, por lo que falta probar visualmente la app localmente antes de subirla. GitHub y la asignación de roles corresponden al equipo.
+
+#### Archivos del cierre
+
+- `app/app.py`: simulador, EDA, PCA, métricas y tiempos.
+- `modelos/modelo.joblib`, `modelos/metricas.csv`, `modelos/resumen.json`: modelo y datos del tablero.
+- `entregas/submission_Grupo#4.csv`: entrega oficial del grupo.
+- `finalizar.py`, `verificar.py`: reproducibilidad y verificación.
+- `resultados/resumen_final.json`, `resultados/tiempos_finales.csv`, `resultados/matriz_confusion_final.png`, `resultados/tiempo_notebook_avance5.json`: evidencias del cierre.
