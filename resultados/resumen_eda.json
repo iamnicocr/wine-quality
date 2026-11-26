@@ -9,12 +9,12 @@
   "nulos_train": 0,
   "nulos_test": 0,
   "tiempos_s": {
-    "carga_y_validacion_s": 0.012339536000581575,
-    "control_calidad_s": 0.010633025000061025,
-    "distribucion_clases_s": 0.133464193000691,
-    "distribuciones_y_extremos_s": 1.1104802990003009,
-    "correlaciones_s": 0.7420591950003654,
-    "guardar_tablas_s": 0.00608571100019617,
-    "total_eda_s": 2.0600877179995223
+    "carga_y_validacion_s": 0.025166725999952178,
+    "control_calidad_s": 0.012393500000143831,
+    "distribucion_clases_s": 0.1625263549999545,
+    "distribuciones_y_extremos_s": 1.2845624939996014,
+    "correlaciones_s": 0.7693318849997013,
+    "guardar_tablas_s": 0.003785903000334656,
+    "total_eda_s": 2.3257455919997483
   }
 }
