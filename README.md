@@ -1,8 +1,8 @@
 # Wine Quality | MP5 — Grupo #4
 
-## Avance 3: configuración, EDA, baseline, ratios y PCA
+## Avance 4: configuración, EDA, baseline, ratios, PCA y modelos avanzados
 
-Clasificación supervisada de vinos de calidad estándar (0) y superior (1). La métrica principal es F1 Macro. Este avance acumulado corresponde a los minutos 0–75 de la guía: configuración inicial, EDA, baseline k-NN e ingeniería de características. No se generan predicciones del test público.
+Clasificación supervisada de vinos de calidad estándar (0) y superior (1). La métrica principal es F1 Macro. Este avance acumulado corresponde a los minutos 0–100 de la guía: configuración inicial, EDA, baseline k-NN e ingeniería de características y modelos avanzados. No se generan predicciones del test público.
 
 ### Datos
 
@@ -98,6 +98,47 @@ El candidato tiene accuracy 0.9148, precision de clase superior 0.7928, recall 0
 
 Resultados: `feature_pca_metricas.csv`, `feature_pca_folds.csv`, `feature_pca_control.csv`, `ratios_estadisticas.csv`, `pca_varianza.png`, `pca_comparacion.png`, `resumen_feature_pca.json`. Los tiempos son mediciones reales del entorno, no duración humana ni marcas de commits.
 
-### Siguiente momento
 
-SVM y MLP (75–100 min): comparar modelos avanzados y optimizar parámetros y umbral sobre desarrollo. No se incluye todavía app, modelo final ni submission. El holdout de 1.040 observaciones sigue reservado.
+### Momento 5 — SVM, MLP y optimización (75–100 min)
+
+Se compararon 533 configuraciones nuevas: 480 k-NN, 44 SVM y 9 MLP. Las 231 operaciones de ajuste reales de búsqueda incluyen preprocesamiento y búsqueda compartida de vecinos, ajustes completos de SVM/MLP y verificación de ocho candidatos k-NN. La auditoría agrupada añade tres ajustes. Se conservan las particiones de los momentos anteriores. El umbral se elige sobre las predicciones OOF de desarrollo, por lo cual la métrica optimizada puede ser optimista; el holdout no se consulta en este avance. No se usan etiquetas externas.
+
+Se exploran SVM lineal, RBF y polinomial de grado 2 con C, gamma y pesos de clase; MLP con ReLU/tanh, distintas capas, alpha, learning rate, lotes de 64, parada temprana y pesos de muestra. La parada temprana de scikit-learn usa accuracy en la validación interna del MLP, pero la selección externa usa F1 Macro. En k-NN se exploran StandardScaler/RobustScaler, PCA 95% o sin PCA, ratios, Manhattan/Euclidiana, k y ponderación inversa a distancia elevada a 1, 2 o 3. Los candidatos con caché son exploratorios: solo se elige un pipeline verificado directamente y sin alerta de convergencia.
+
+| Familia | F1 Macro OOF | F1 umbral nativo | Accuracy | Precision 1 | Recall 1 | F1 clase 1 | Ajuste medio (ms) | Inferencia media (ms) |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| k-NN | 0.8504 | 0.8323 | 0.9192 | 0.7411 | 0.7568 | 0.7489 | 11.89 | 70.71 |
+| SVM | 0.8206 | 0.7991 | 0.9062 | 0.7179 | 0.6767 | 0.6967 | 57.28 | 28.21 |
+| MLP | 0.8155 | 0.7957 | 0.8997 | 0.6783 | 0.7039 | 0.6909 | 295.56 | 1.65 |
+
+Candidato provisional: **k-NN k=100 euclidean 1/d^3 ratios=1 robust=0 PCA=0.95**, umbral 0.4000, F1 Macro OOF **0.8504**. Mejora de 6.15 puntos porcentuales sobre el baseline. Auditoría por grupos con umbral fijo: 0.8105. La auditoría no es el leaderboard. No se genera aún modelo definitivo ni submission.
+
+#### Tiempos reales de la ejecución acumulada
+
+| Actividad | Segundos |
+|---|---:|
+| EDA | 2.1834 |
+| Momento 3 | 1.5751 |
+| Momento 4 | 9.4232 |
+| busqueda knn (momento 5) | 8.9254 |
+| busqueda svm (momento 5) | 17.1440 |
+| busqueda mlp (momento 5) | 9.3461 |
+| verificacion knn (momento 5) | 2.1380 |
+| auditoria grupos (momento 5) | 0.2040 |
+| total (momento 5) | 38.0514 |
+| Notebook completo, incluido kernel | 54.8678 |
+
+La búsqueda de k-NN reutiliza distancias. Los registros `cache_vecinos` miden el voto individual, mientras los tiempos compartidos están en `resultados/avanzado_cache_vecinos.csv`; no se deben contar repetidamente. El ajuste e inferencia de candidatos elegibles sí miden el pipeline completo. Las duraciones de los modelos no equivalen a tiempo humano.
+
+#### Archivos nuevos
+
+- `modelado.py`: construcción de modelos, búsqueda, optimización de umbral y auditoría.
+- `resultados/avanzado_metricas.csv`: métricas por configuración.
+- `resultados/avanzado_folds.csv`: métricas y tiempos por fold.
+- `resultados/avanzado_cache_vecinos.csv`: costo compartido de las búsquedas de vecinos.
+- `resultados/avanzado_configuraciones.json`: parámetros reproducibles de todos los candidatos.
+- `resultados/resumen_avanzado.json`: candidato provisional y auditoría.
+- `resultados/avanzado_comparacion.png`: progresión y matriz de confusión.
+- `resultados/tiempo_notebook_avance4.json`: tiempo total de notebook.
+
+Siguiente momento: selección definitiva, reajuste, Streamlit y archivo `entregas/submission_Grupo#4.csv`.
