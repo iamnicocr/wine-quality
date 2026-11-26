@@ -17,9 +17,9 @@
     "f1_std_folds": 0.0065475490990561745,
     "componentes_media": 9.0,
     "varianza_media": 0.97584781014461,
-    "ajuste_medio_s": 0.006479572666952056,
-    "inferencia_media_s": 0.05359330166690294,
-    "tiempo_total_s": 0.19765655099945434
+    "ajuste_medio_s": 0.006642898666238277,
+    "inferencia_media_s": 0.05495705999995456,
+    "tiempo_total_s": 0.20525322199955554
   },
   "baseline_f1": 0.7888706998400041,
   "mejora_pp": 3.730078202892373,
@@ -40,8 +40,8 @@
     "recall_1": 0.5664652567975831,
     "f1_1": 0.6487889273356401
   },
-  "tiempo_busqueda_s": 8.231377342999622,
-  "tiempo_auditoria_s": 0.4724117200003093,
-  "tiempo_momento4_s": 9.11945054500029,
+  "tiempo_busqueda_s": 8.557897503999811,
+  "tiempo_auditoria_s": 0.4456561770002736,
+  "tiempo_momento4_s": 9.42323410300014,
   "n_auditoria_reservada": 1040
 }

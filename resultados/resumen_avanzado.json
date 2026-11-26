@@ -1,0 +1,63 @@
+{
+  "configuraciones": 533,
+  "n_knn": 480,
+  "n_svm": 44,
+  "n_mlp": 9,
+  "ajustes_reales": 231,
+  "ajustes_auditoria": 3,
+  "ganador": {
+    "modelo": "k-NN k=100 euclidean 1/d^3 ratios=1 robust=0 PCA=0.95",
+    "familia": "k-NN",
+    "origen": "pipeline_verificado",
+    "umbral": 0.40000000000000024,
+    "f1_default": 0.8322564964466729,
+    "f1_media_folds": 0.8503936445844706,
+    "f1_std_folds": 0.008834340270926562,
+    "ajuste_medio_s": 0.011893544999717657,
+    "inferencia_media_s": 0.07070515100015957,
+    "tiempo_umbral_s": 0.0006415569996534032,
+    "alertas_convergencia": 0,
+    "f1_macro": 0.8503568930760687,
+    "accuracy": 0.9191724801539571,
+    "precision_1": 0.7411242603550295,
+    "recall_1": 0.756797583081571,
+    "f1_1": 0.7488789237668162,
+    "average_precision": 0.8184707518066174,
+    "elegible": true
+  },
+  "configuracion": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 100,
+    "potencia": 3
+  },
+  "matriz_confusion_oof": [
+    [
+      3320,
+      175
+    ],
+    [
+      161,
+      501
+    ]
+  ],
+  "auditoria_grupos": {
+    "f1_macro": 0.8105494918515357,
+    "accuracy": 0.8987250420976666,
+    "precision_1": 0.6828528072837633,
+    "recall_1": 0.6797583081570997,
+    "f1_1": 0.6813020439061317,
+    "average_precision": 0.7445945525736739
+  },
+  "tiempos_s": {
+    "busqueda_knn": 8.925356591999844,
+    "busqueda_svm": 17.143994208999175,
+    "busqueda_mlp": 9.346136515999206,
+    "verificacion_knn": 2.1379636800002118,
+    "auditoria_grupos": 0.20401835099983145,
+    "total": 38.051364611999816
+  }
+}

@@ -1,0 +1,4888 @@
+{
+  "k-NN k=3 manhattan 1/d^1 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 3,
+    "potencia": 1
+  },
+  "k-NN k=3 manhattan 1/d^2 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 3,
+    "potencia": 2
+  },
+  "k-NN k=3 manhattan 1/d^3 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 3,
+    "potencia": 3
+  },
+  "k-NN k=5 manhattan 1/d^1 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 5,
+    "potencia": 1
+  },
+  "k-NN k=5 manhattan 1/d^2 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 5,
+    "potencia": 2
+  },
+  "k-NN k=5 manhattan 1/d^3 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 5,
+    "potencia": 3
+  },
+  "k-NN k=7 manhattan 1/d^1 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 7,
+    "potencia": 1
+  },
+  "k-NN k=7 manhattan 1/d^2 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 7,
+    "potencia": 2
+  },
+  "k-NN k=7 manhattan 1/d^3 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 7,
+    "potencia": 3
+  },
+  "k-NN k=9 manhattan 1/d^1 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 9,
+    "potencia": 1
+  },
+  "k-NN k=9 manhattan 1/d^2 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 9,
+    "potencia": 2
+  },
+  "k-NN k=9 manhattan 1/d^3 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 9,
+    "potencia": 3
+  },
+  "k-NN k=15 manhattan 1/d^1 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 15,
+    "potencia": 1
+  },
+  "k-NN k=15 manhattan 1/d^2 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 15,
+    "potencia": 2
+  },
+  "k-NN k=15 manhattan 1/d^3 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 15,
+    "potencia": 3
+  },
+  "k-NN k=25 manhattan 1/d^1 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 25,
+    "potencia": 1
+  },
+  "k-NN k=25 manhattan 1/d^2 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 25,
+    "potencia": 2
+  },
+  "k-NN k=25 manhattan 1/d^3 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 25,
+    "potencia": 3
+  },
+  "k-NN k=35 manhattan 1/d^1 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 35,
+    "potencia": 1
+  },
+  "k-NN k=35 manhattan 1/d^2 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 35,
+    "potencia": 2
+  },
+  "k-NN k=35 manhattan 1/d^3 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 35,
+    "potencia": 3
+  },
+  "k-NN k=50 manhattan 1/d^1 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 50,
+    "potencia": 1
+  },
+  "k-NN k=50 manhattan 1/d^2 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 50,
+    "potencia": 2
+  },
+  "k-NN k=50 manhattan 1/d^3 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 50,
+    "potencia": 3
+  },
+  "k-NN k=75 manhattan 1/d^1 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 75,
+    "potencia": 1
+  },
+  "k-NN k=75 manhattan 1/d^2 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 75,
+    "potencia": 2
+  },
+  "k-NN k=75 manhattan 1/d^3 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 75,
+    "potencia": 3
+  },
+  "k-NN k=100 manhattan 1/d^1 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 100,
+    "potencia": 1
+  },
+  "k-NN k=100 manhattan 1/d^2 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 100,
+    "potencia": 2
+  },
+  "k-NN k=100 manhattan 1/d^3 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 100,
+    "potencia": 3
+  },
+  "k-NN k=3 euclidean 1/d^1 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 3,
+    "potencia": 1
+  },
+  "k-NN k=3 euclidean 1/d^2 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 3,
+    "potencia": 2
+  },
+  "k-NN k=3 euclidean 1/d^3 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 3,
+    "potencia": 3
+  },
+  "k-NN k=5 euclidean 1/d^1 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 5,
+    "potencia": 1
+  },
+  "k-NN k=5 euclidean 1/d^2 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 5,
+    "potencia": 2
+  },
+  "k-NN k=5 euclidean 1/d^3 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 5,
+    "potencia": 3
+  },
+  "k-NN k=7 euclidean 1/d^1 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 7,
+    "potencia": 1
+  },
+  "k-NN k=7 euclidean 1/d^2 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 7,
+    "potencia": 2
+  },
+  "k-NN k=7 euclidean 1/d^3 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 7,
+    "potencia": 3
+  },
+  "k-NN k=9 euclidean 1/d^1 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 9,
+    "potencia": 1
+  },
+  "k-NN k=9 euclidean 1/d^2 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 9,
+    "potencia": 2
+  },
+  "k-NN k=9 euclidean 1/d^3 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 9,
+    "potencia": 3
+  },
+  "k-NN k=15 euclidean 1/d^1 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 15,
+    "potencia": 1
+  },
+  "k-NN k=15 euclidean 1/d^2 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 15,
+    "potencia": 2
+  },
+  "k-NN k=15 euclidean 1/d^3 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 15,
+    "potencia": 3
+  },
+  "k-NN k=25 euclidean 1/d^1 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 25,
+    "potencia": 1
+  },
+  "k-NN k=25 euclidean 1/d^2 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 25,
+    "potencia": 2
+  },
+  "k-NN k=25 euclidean 1/d^3 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 25,
+    "potencia": 3
+  },
+  "k-NN k=35 euclidean 1/d^1 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 35,
+    "potencia": 1
+  },
+  "k-NN k=35 euclidean 1/d^2 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 35,
+    "potencia": 2
+  },
+  "k-NN k=35 euclidean 1/d^3 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 35,
+    "potencia": 3
+  },
+  "k-NN k=50 euclidean 1/d^1 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 50,
+    "potencia": 1
+  },
+  "k-NN k=50 euclidean 1/d^2 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 50,
+    "potencia": 2
+  },
+  "k-NN k=50 euclidean 1/d^3 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 50,
+    "potencia": 3
+  },
+  "k-NN k=75 euclidean 1/d^1 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 75,
+    "potencia": 1
+  },
+  "k-NN k=75 euclidean 1/d^2 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 75,
+    "potencia": 2
+  },
+  "k-NN k=75 euclidean 1/d^3 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 75,
+    "potencia": 3
+  },
+  "k-NN k=100 euclidean 1/d^1 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 100,
+    "potencia": 1
+  },
+  "k-NN k=100 euclidean 1/d^2 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 100,
+    "potencia": 2
+  },
+  "k-NN k=100 euclidean 1/d^3 ratios=0 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 100,
+    "potencia": 3
+  },
+  "k-NN k=3 manhattan 1/d^1 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 3,
+    "potencia": 1
+  },
+  "k-NN k=3 manhattan 1/d^2 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 3,
+    "potencia": 2
+  },
+  "k-NN k=3 manhattan 1/d^3 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 3,
+    "potencia": 3
+  },
+  "k-NN k=5 manhattan 1/d^1 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 5,
+    "potencia": 1
+  },
+  "k-NN k=5 manhattan 1/d^2 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 5,
+    "potencia": 2
+  },
+  "k-NN k=5 manhattan 1/d^3 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 5,
+    "potencia": 3
+  },
+  "k-NN k=7 manhattan 1/d^1 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 7,
+    "potencia": 1
+  },
+  "k-NN k=7 manhattan 1/d^2 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 7,
+    "potencia": 2
+  },
+  "k-NN k=7 manhattan 1/d^3 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 7,
+    "potencia": 3
+  },
+  "k-NN k=9 manhattan 1/d^1 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 9,
+    "potencia": 1
+  },
+  "k-NN k=9 manhattan 1/d^2 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 9,
+    "potencia": 2
+  },
+  "k-NN k=9 manhattan 1/d^3 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 9,
+    "potencia": 3
+  },
+  "k-NN k=15 manhattan 1/d^1 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 15,
+    "potencia": 1
+  },
+  "k-NN k=15 manhattan 1/d^2 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 15,
+    "potencia": 2
+  },
+  "k-NN k=15 manhattan 1/d^3 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 15,
+    "potencia": 3
+  },
+  "k-NN k=25 manhattan 1/d^1 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 25,
+    "potencia": 1
+  },
+  "k-NN k=25 manhattan 1/d^2 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 25,
+    "potencia": 2
+  },
+  "k-NN k=25 manhattan 1/d^3 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 25,
+    "potencia": 3
+  },
+  "k-NN k=35 manhattan 1/d^1 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 35,
+    "potencia": 1
+  },
+  "k-NN k=35 manhattan 1/d^2 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 35,
+    "potencia": 2
+  },
+  "k-NN k=35 manhattan 1/d^3 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 35,
+    "potencia": 3
+  },
+  "k-NN k=50 manhattan 1/d^1 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 50,
+    "potencia": 1
+  },
+  "k-NN k=50 manhattan 1/d^2 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 50,
+    "potencia": 2
+  },
+  "k-NN k=50 manhattan 1/d^3 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 50,
+    "potencia": 3
+  },
+  "k-NN k=75 manhattan 1/d^1 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 75,
+    "potencia": 1
+  },
+  "k-NN k=75 manhattan 1/d^2 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 75,
+    "potencia": 2
+  },
+  "k-NN k=75 manhattan 1/d^3 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 75,
+    "potencia": 3
+  },
+  "k-NN k=100 manhattan 1/d^1 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 100,
+    "potencia": 1
+  },
+  "k-NN k=100 manhattan 1/d^2 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 100,
+    "potencia": 2
+  },
+  "k-NN k=100 manhattan 1/d^3 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 100,
+    "potencia": 3
+  },
+  "k-NN k=3 euclidean 1/d^1 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 3,
+    "potencia": 1
+  },
+  "k-NN k=3 euclidean 1/d^2 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 3,
+    "potencia": 2
+  },
+  "k-NN k=3 euclidean 1/d^3 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 3,
+    "potencia": 3
+  },
+  "k-NN k=5 euclidean 1/d^1 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 5,
+    "potencia": 1
+  },
+  "k-NN k=5 euclidean 1/d^2 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 5,
+    "potencia": 2
+  },
+  "k-NN k=5 euclidean 1/d^3 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 5,
+    "potencia": 3
+  },
+  "k-NN k=7 euclidean 1/d^1 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 7,
+    "potencia": 1
+  },
+  "k-NN k=7 euclidean 1/d^2 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 7,
+    "potencia": 2
+  },
+  "k-NN k=7 euclidean 1/d^3 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 7,
+    "potencia": 3
+  },
+  "k-NN k=9 euclidean 1/d^1 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 9,
+    "potencia": 1
+  },
+  "k-NN k=9 euclidean 1/d^2 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 9,
+    "potencia": 2
+  },
+  "k-NN k=9 euclidean 1/d^3 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 9,
+    "potencia": 3
+  },
+  "k-NN k=15 euclidean 1/d^1 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 15,
+    "potencia": 1
+  },
+  "k-NN k=15 euclidean 1/d^2 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 15,
+    "potencia": 2
+  },
+  "k-NN k=15 euclidean 1/d^3 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 15,
+    "potencia": 3
+  },
+  "k-NN k=25 euclidean 1/d^1 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 25,
+    "potencia": 1
+  },
+  "k-NN k=25 euclidean 1/d^2 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 25,
+    "potencia": 2
+  },
+  "k-NN k=25 euclidean 1/d^3 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 25,
+    "potencia": 3
+  },
+  "k-NN k=35 euclidean 1/d^1 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 35,
+    "potencia": 1
+  },
+  "k-NN k=35 euclidean 1/d^2 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 35,
+    "potencia": 2
+  },
+  "k-NN k=35 euclidean 1/d^3 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 35,
+    "potencia": 3
+  },
+  "k-NN k=50 euclidean 1/d^1 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 50,
+    "potencia": 1
+  },
+  "k-NN k=50 euclidean 1/d^2 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 50,
+    "potencia": 2
+  },
+  "k-NN k=50 euclidean 1/d^3 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 50,
+    "potencia": 3
+  },
+  "k-NN k=75 euclidean 1/d^1 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 75,
+    "potencia": 1
+  },
+  "k-NN k=75 euclidean 1/d^2 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 75,
+    "potencia": 2
+  },
+  "k-NN k=75 euclidean 1/d^3 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 75,
+    "potencia": 3
+  },
+  "k-NN k=100 euclidean 1/d^1 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 100,
+    "potencia": 1
+  },
+  "k-NN k=100 euclidean 1/d^2 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 100,
+    "potencia": 2
+  },
+  "k-NN k=100 euclidean 1/d^3 ratios=0 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 100,
+    "potencia": 3
+  },
+  "k-NN k=3 manhattan 1/d^1 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 3,
+    "potencia": 1
+  },
+  "k-NN k=3 manhattan 1/d^2 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 3,
+    "potencia": 2
+  },
+  "k-NN k=3 manhattan 1/d^3 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 3,
+    "potencia": 3
+  },
+  "k-NN k=5 manhattan 1/d^1 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 5,
+    "potencia": 1
+  },
+  "k-NN k=5 manhattan 1/d^2 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 5,
+    "potencia": 2
+  },
+  "k-NN k=5 manhattan 1/d^3 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 5,
+    "potencia": 3
+  },
+  "k-NN k=7 manhattan 1/d^1 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 7,
+    "potencia": 1
+  },
+  "k-NN k=7 manhattan 1/d^2 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 7,
+    "potencia": 2
+  },
+  "k-NN k=7 manhattan 1/d^3 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 7,
+    "potencia": 3
+  },
+  "k-NN k=9 manhattan 1/d^1 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 9,
+    "potencia": 1
+  },
+  "k-NN k=9 manhattan 1/d^2 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 9,
+    "potencia": 2
+  },
+  "k-NN k=9 manhattan 1/d^3 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 9,
+    "potencia": 3
+  },
+  "k-NN k=15 manhattan 1/d^1 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 15,
+    "potencia": 1
+  },
+  "k-NN k=15 manhattan 1/d^2 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 15,
+    "potencia": 2
+  },
+  "k-NN k=15 manhattan 1/d^3 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 15,
+    "potencia": 3
+  },
+  "k-NN k=25 manhattan 1/d^1 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 25,
+    "potencia": 1
+  },
+  "k-NN k=25 manhattan 1/d^2 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 25,
+    "potencia": 2
+  },
+  "k-NN k=25 manhattan 1/d^3 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 25,
+    "potencia": 3
+  },
+  "k-NN k=35 manhattan 1/d^1 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 35,
+    "potencia": 1
+  },
+  "k-NN k=35 manhattan 1/d^2 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 35,
+    "potencia": 2
+  },
+  "k-NN k=35 manhattan 1/d^3 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 35,
+    "potencia": 3
+  },
+  "k-NN k=50 manhattan 1/d^1 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 50,
+    "potencia": 1
+  },
+  "k-NN k=50 manhattan 1/d^2 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 50,
+    "potencia": 2
+  },
+  "k-NN k=50 manhattan 1/d^3 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 50,
+    "potencia": 3
+  },
+  "k-NN k=75 manhattan 1/d^1 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 75,
+    "potencia": 1
+  },
+  "k-NN k=75 manhattan 1/d^2 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 75,
+    "potencia": 2
+  },
+  "k-NN k=75 manhattan 1/d^3 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 75,
+    "potencia": 3
+  },
+  "k-NN k=100 manhattan 1/d^1 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 100,
+    "potencia": 1
+  },
+  "k-NN k=100 manhattan 1/d^2 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 100,
+    "potencia": 2
+  },
+  "k-NN k=100 manhattan 1/d^3 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 100,
+    "potencia": 3
+  },
+  "k-NN k=3 euclidean 1/d^1 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 3,
+    "potencia": 1
+  },
+  "k-NN k=3 euclidean 1/d^2 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 3,
+    "potencia": 2
+  },
+  "k-NN k=3 euclidean 1/d^3 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 3,
+    "potencia": 3
+  },
+  "k-NN k=5 euclidean 1/d^1 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 5,
+    "potencia": 1
+  },
+  "k-NN k=5 euclidean 1/d^2 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 5,
+    "potencia": 2
+  },
+  "k-NN k=5 euclidean 1/d^3 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 5,
+    "potencia": 3
+  },
+  "k-NN k=7 euclidean 1/d^1 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 7,
+    "potencia": 1
+  },
+  "k-NN k=7 euclidean 1/d^2 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 7,
+    "potencia": 2
+  },
+  "k-NN k=7 euclidean 1/d^3 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 7,
+    "potencia": 3
+  },
+  "k-NN k=9 euclidean 1/d^1 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 9,
+    "potencia": 1
+  },
+  "k-NN k=9 euclidean 1/d^2 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 9,
+    "potencia": 2
+  },
+  "k-NN k=9 euclidean 1/d^3 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 9,
+    "potencia": 3
+  },
+  "k-NN k=15 euclidean 1/d^1 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 15,
+    "potencia": 1
+  },
+  "k-NN k=15 euclidean 1/d^2 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 15,
+    "potencia": 2
+  },
+  "k-NN k=15 euclidean 1/d^3 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 15,
+    "potencia": 3
+  },
+  "k-NN k=25 euclidean 1/d^1 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 25,
+    "potencia": 1
+  },
+  "k-NN k=25 euclidean 1/d^2 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 25,
+    "potencia": 2
+  },
+  "k-NN k=25 euclidean 1/d^3 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 25,
+    "potencia": 3
+  },
+  "k-NN k=35 euclidean 1/d^1 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 35,
+    "potencia": 1
+  },
+  "k-NN k=35 euclidean 1/d^2 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 35,
+    "potencia": 2
+  },
+  "k-NN k=35 euclidean 1/d^3 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 35,
+    "potencia": 3
+  },
+  "k-NN k=50 euclidean 1/d^1 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 50,
+    "potencia": 1
+  },
+  "k-NN k=50 euclidean 1/d^2 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 50,
+    "potencia": 2
+  },
+  "k-NN k=50 euclidean 1/d^3 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 50,
+    "potencia": 3
+  },
+  "k-NN k=75 euclidean 1/d^1 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 75,
+    "potencia": 1
+  },
+  "k-NN k=75 euclidean 1/d^2 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 75,
+    "potencia": 2
+  },
+  "k-NN k=75 euclidean 1/d^3 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 75,
+    "potencia": 3
+  },
+  "k-NN k=100 euclidean 1/d^1 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 100,
+    "potencia": 1
+  },
+  "k-NN k=100 euclidean 1/d^2 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 100,
+    "potencia": 2
+  },
+  "k-NN k=100 euclidean 1/d^3 ratios=0 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 100,
+    "potencia": 3
+  },
+  "k-NN k=3 manhattan 1/d^1 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 3,
+    "potencia": 1
+  },
+  "k-NN k=3 manhattan 1/d^2 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 3,
+    "potencia": 2
+  },
+  "k-NN k=3 manhattan 1/d^3 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 3,
+    "potencia": 3
+  },
+  "k-NN k=5 manhattan 1/d^1 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 5,
+    "potencia": 1
+  },
+  "k-NN k=5 manhattan 1/d^2 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 5,
+    "potencia": 2
+  },
+  "k-NN k=5 manhattan 1/d^3 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 5,
+    "potencia": 3
+  },
+  "k-NN k=7 manhattan 1/d^1 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 7,
+    "potencia": 1
+  },
+  "k-NN k=7 manhattan 1/d^2 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 7,
+    "potencia": 2
+  },
+  "k-NN k=7 manhattan 1/d^3 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 7,
+    "potencia": 3
+  },
+  "k-NN k=9 manhattan 1/d^1 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 9,
+    "potencia": 1
+  },
+  "k-NN k=9 manhattan 1/d^2 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 9,
+    "potencia": 2
+  },
+  "k-NN k=9 manhattan 1/d^3 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 9,
+    "potencia": 3
+  },
+  "k-NN k=15 manhattan 1/d^1 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 15,
+    "potencia": 1
+  },
+  "k-NN k=15 manhattan 1/d^2 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 15,
+    "potencia": 2
+  },
+  "k-NN k=15 manhattan 1/d^3 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 15,
+    "potencia": 3
+  },
+  "k-NN k=25 manhattan 1/d^1 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 25,
+    "potencia": 1
+  },
+  "k-NN k=25 manhattan 1/d^2 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 25,
+    "potencia": 2
+  },
+  "k-NN k=25 manhattan 1/d^3 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 25,
+    "potencia": 3
+  },
+  "k-NN k=35 manhattan 1/d^1 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 35,
+    "potencia": 1
+  },
+  "k-NN k=35 manhattan 1/d^2 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 35,
+    "potencia": 2
+  },
+  "k-NN k=35 manhattan 1/d^3 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 35,
+    "potencia": 3
+  },
+  "k-NN k=50 manhattan 1/d^1 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 50,
+    "potencia": 1
+  },
+  "k-NN k=50 manhattan 1/d^2 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 50,
+    "potencia": 2
+  },
+  "k-NN k=50 manhattan 1/d^3 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 50,
+    "potencia": 3
+  },
+  "k-NN k=75 manhattan 1/d^1 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 75,
+    "potencia": 1
+  },
+  "k-NN k=75 manhattan 1/d^2 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 75,
+    "potencia": 2
+  },
+  "k-NN k=75 manhattan 1/d^3 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 75,
+    "potencia": 3
+  },
+  "k-NN k=100 manhattan 1/d^1 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 100,
+    "potencia": 1
+  },
+  "k-NN k=100 manhattan 1/d^2 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 100,
+    "potencia": 2
+  },
+  "k-NN k=100 manhattan 1/d^3 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 100,
+    "potencia": 3
+  },
+  "k-NN k=3 euclidean 1/d^1 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 3,
+    "potencia": 1
+  },
+  "k-NN k=3 euclidean 1/d^2 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 3,
+    "potencia": 2
+  },
+  "k-NN k=3 euclidean 1/d^3 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 3,
+    "potencia": 3
+  },
+  "k-NN k=5 euclidean 1/d^1 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 5,
+    "potencia": 1
+  },
+  "k-NN k=5 euclidean 1/d^2 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 5,
+    "potencia": 2
+  },
+  "k-NN k=5 euclidean 1/d^3 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 5,
+    "potencia": 3
+  },
+  "k-NN k=7 euclidean 1/d^1 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 7,
+    "potencia": 1
+  },
+  "k-NN k=7 euclidean 1/d^2 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 7,
+    "potencia": 2
+  },
+  "k-NN k=7 euclidean 1/d^3 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 7,
+    "potencia": 3
+  },
+  "k-NN k=9 euclidean 1/d^1 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 9,
+    "potencia": 1
+  },
+  "k-NN k=9 euclidean 1/d^2 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 9,
+    "potencia": 2
+  },
+  "k-NN k=9 euclidean 1/d^3 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 9,
+    "potencia": 3
+  },
+  "k-NN k=15 euclidean 1/d^1 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 15,
+    "potencia": 1
+  },
+  "k-NN k=15 euclidean 1/d^2 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 15,
+    "potencia": 2
+  },
+  "k-NN k=15 euclidean 1/d^3 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 15,
+    "potencia": 3
+  },
+  "k-NN k=25 euclidean 1/d^1 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 25,
+    "potencia": 1
+  },
+  "k-NN k=25 euclidean 1/d^2 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 25,
+    "potencia": 2
+  },
+  "k-NN k=25 euclidean 1/d^3 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 25,
+    "potencia": 3
+  },
+  "k-NN k=35 euclidean 1/d^1 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 35,
+    "potencia": 1
+  },
+  "k-NN k=35 euclidean 1/d^2 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 35,
+    "potencia": 2
+  },
+  "k-NN k=35 euclidean 1/d^3 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 35,
+    "potencia": 3
+  },
+  "k-NN k=50 euclidean 1/d^1 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 50,
+    "potencia": 1
+  },
+  "k-NN k=50 euclidean 1/d^2 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 50,
+    "potencia": 2
+  },
+  "k-NN k=50 euclidean 1/d^3 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 50,
+    "potencia": 3
+  },
+  "k-NN k=75 euclidean 1/d^1 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 75,
+    "potencia": 1
+  },
+  "k-NN k=75 euclidean 1/d^2 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 75,
+    "potencia": 2
+  },
+  "k-NN k=75 euclidean 1/d^3 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 75,
+    "potencia": 3
+  },
+  "k-NN k=100 euclidean 1/d^1 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 100,
+    "potencia": 1
+  },
+  "k-NN k=100 euclidean 1/d^2 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 100,
+    "potencia": 2
+  },
+  "k-NN k=100 euclidean 1/d^3 ratios=0 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": false,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 100,
+    "potencia": 3
+  },
+  "k-NN k=3 manhattan 1/d^1 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 3,
+    "potencia": 1
+  },
+  "k-NN k=3 manhattan 1/d^2 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 3,
+    "potencia": 2
+  },
+  "k-NN k=3 manhattan 1/d^3 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 3,
+    "potencia": 3
+  },
+  "k-NN k=5 manhattan 1/d^1 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 5,
+    "potencia": 1
+  },
+  "k-NN k=5 manhattan 1/d^2 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 5,
+    "potencia": 2
+  },
+  "k-NN k=5 manhattan 1/d^3 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 5,
+    "potencia": 3
+  },
+  "k-NN k=7 manhattan 1/d^1 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 7,
+    "potencia": 1
+  },
+  "k-NN k=7 manhattan 1/d^2 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 7,
+    "potencia": 2
+  },
+  "k-NN k=7 manhattan 1/d^3 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 7,
+    "potencia": 3
+  },
+  "k-NN k=9 manhattan 1/d^1 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 9,
+    "potencia": 1
+  },
+  "k-NN k=9 manhattan 1/d^2 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 9,
+    "potencia": 2
+  },
+  "k-NN k=9 manhattan 1/d^3 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 9,
+    "potencia": 3
+  },
+  "k-NN k=15 manhattan 1/d^1 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 15,
+    "potencia": 1
+  },
+  "k-NN k=15 manhattan 1/d^2 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 15,
+    "potencia": 2
+  },
+  "k-NN k=15 manhattan 1/d^3 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 15,
+    "potencia": 3
+  },
+  "k-NN k=25 manhattan 1/d^1 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 25,
+    "potencia": 1
+  },
+  "k-NN k=25 manhattan 1/d^2 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 25,
+    "potencia": 2
+  },
+  "k-NN k=25 manhattan 1/d^3 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 25,
+    "potencia": 3
+  },
+  "k-NN k=35 manhattan 1/d^1 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 35,
+    "potencia": 1
+  },
+  "k-NN k=35 manhattan 1/d^2 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 35,
+    "potencia": 2
+  },
+  "k-NN k=35 manhattan 1/d^3 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 35,
+    "potencia": 3
+  },
+  "k-NN k=50 manhattan 1/d^1 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 50,
+    "potencia": 1
+  },
+  "k-NN k=50 manhattan 1/d^2 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 50,
+    "potencia": 2
+  },
+  "k-NN k=50 manhattan 1/d^3 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 50,
+    "potencia": 3
+  },
+  "k-NN k=75 manhattan 1/d^1 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 75,
+    "potencia": 1
+  },
+  "k-NN k=75 manhattan 1/d^2 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 75,
+    "potencia": 2
+  },
+  "k-NN k=75 manhattan 1/d^3 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 75,
+    "potencia": 3
+  },
+  "k-NN k=100 manhattan 1/d^1 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 100,
+    "potencia": 1
+  },
+  "k-NN k=100 manhattan 1/d^2 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 100,
+    "potencia": 2
+  },
+  "k-NN k=100 manhattan 1/d^3 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 100,
+    "potencia": 3
+  },
+  "k-NN k=3 euclidean 1/d^1 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 3,
+    "potencia": 1
+  },
+  "k-NN k=3 euclidean 1/d^2 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 3,
+    "potencia": 2
+  },
+  "k-NN k=3 euclidean 1/d^3 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 3,
+    "potencia": 3
+  },
+  "k-NN k=5 euclidean 1/d^1 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 5,
+    "potencia": 1
+  },
+  "k-NN k=5 euclidean 1/d^2 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 5,
+    "potencia": 2
+  },
+  "k-NN k=5 euclidean 1/d^3 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 5,
+    "potencia": 3
+  },
+  "k-NN k=7 euclidean 1/d^1 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 7,
+    "potencia": 1
+  },
+  "k-NN k=7 euclidean 1/d^2 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 7,
+    "potencia": 2
+  },
+  "k-NN k=7 euclidean 1/d^3 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 7,
+    "potencia": 3
+  },
+  "k-NN k=9 euclidean 1/d^1 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 9,
+    "potencia": 1
+  },
+  "k-NN k=9 euclidean 1/d^2 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 9,
+    "potencia": 2
+  },
+  "k-NN k=9 euclidean 1/d^3 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 9,
+    "potencia": 3
+  },
+  "k-NN k=15 euclidean 1/d^1 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 15,
+    "potencia": 1
+  },
+  "k-NN k=15 euclidean 1/d^2 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 15,
+    "potencia": 2
+  },
+  "k-NN k=15 euclidean 1/d^3 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 15,
+    "potencia": 3
+  },
+  "k-NN k=25 euclidean 1/d^1 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 25,
+    "potencia": 1
+  },
+  "k-NN k=25 euclidean 1/d^2 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 25,
+    "potencia": 2
+  },
+  "k-NN k=25 euclidean 1/d^3 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 25,
+    "potencia": 3
+  },
+  "k-NN k=35 euclidean 1/d^1 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 35,
+    "potencia": 1
+  },
+  "k-NN k=35 euclidean 1/d^2 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 35,
+    "potencia": 2
+  },
+  "k-NN k=35 euclidean 1/d^3 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 35,
+    "potencia": 3
+  },
+  "k-NN k=50 euclidean 1/d^1 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 50,
+    "potencia": 1
+  },
+  "k-NN k=50 euclidean 1/d^2 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 50,
+    "potencia": 2
+  },
+  "k-NN k=50 euclidean 1/d^3 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 50,
+    "potencia": 3
+  },
+  "k-NN k=75 euclidean 1/d^1 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 75,
+    "potencia": 1
+  },
+  "k-NN k=75 euclidean 1/d^2 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 75,
+    "potencia": 2
+  },
+  "k-NN k=75 euclidean 1/d^3 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 75,
+    "potencia": 3
+  },
+  "k-NN k=100 euclidean 1/d^1 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 100,
+    "potencia": 1
+  },
+  "k-NN k=100 euclidean 1/d^2 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 100,
+    "potencia": 2
+  },
+  "k-NN k=100 euclidean 1/d^3 ratios=1 robust=0 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 100,
+    "potencia": 3
+  },
+  "k-NN k=3 manhattan 1/d^1 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 3,
+    "potencia": 1
+  },
+  "k-NN k=3 manhattan 1/d^2 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 3,
+    "potencia": 2
+  },
+  "k-NN k=3 manhattan 1/d^3 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 3,
+    "potencia": 3
+  },
+  "k-NN k=5 manhattan 1/d^1 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 5,
+    "potencia": 1
+  },
+  "k-NN k=5 manhattan 1/d^2 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 5,
+    "potencia": 2
+  },
+  "k-NN k=5 manhattan 1/d^3 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 5,
+    "potencia": 3
+  },
+  "k-NN k=7 manhattan 1/d^1 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 7,
+    "potencia": 1
+  },
+  "k-NN k=7 manhattan 1/d^2 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 7,
+    "potencia": 2
+  },
+  "k-NN k=7 manhattan 1/d^3 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 7,
+    "potencia": 3
+  },
+  "k-NN k=9 manhattan 1/d^1 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 9,
+    "potencia": 1
+  },
+  "k-NN k=9 manhattan 1/d^2 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 9,
+    "potencia": 2
+  },
+  "k-NN k=9 manhattan 1/d^3 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 9,
+    "potencia": 3
+  },
+  "k-NN k=15 manhattan 1/d^1 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 15,
+    "potencia": 1
+  },
+  "k-NN k=15 manhattan 1/d^2 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 15,
+    "potencia": 2
+  },
+  "k-NN k=15 manhattan 1/d^3 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 15,
+    "potencia": 3
+  },
+  "k-NN k=25 manhattan 1/d^1 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 25,
+    "potencia": 1
+  },
+  "k-NN k=25 manhattan 1/d^2 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 25,
+    "potencia": 2
+  },
+  "k-NN k=25 manhattan 1/d^3 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 25,
+    "potencia": 3
+  },
+  "k-NN k=35 manhattan 1/d^1 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 35,
+    "potencia": 1
+  },
+  "k-NN k=35 manhattan 1/d^2 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 35,
+    "potencia": 2
+  },
+  "k-NN k=35 manhattan 1/d^3 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 35,
+    "potencia": 3
+  },
+  "k-NN k=50 manhattan 1/d^1 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 50,
+    "potencia": 1
+  },
+  "k-NN k=50 manhattan 1/d^2 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 50,
+    "potencia": 2
+  },
+  "k-NN k=50 manhattan 1/d^3 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 50,
+    "potencia": 3
+  },
+  "k-NN k=75 manhattan 1/d^1 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 75,
+    "potencia": 1
+  },
+  "k-NN k=75 manhattan 1/d^2 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 75,
+    "potencia": 2
+  },
+  "k-NN k=75 manhattan 1/d^3 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 75,
+    "potencia": 3
+  },
+  "k-NN k=100 manhattan 1/d^1 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 100,
+    "potencia": 1
+  },
+  "k-NN k=100 manhattan 1/d^2 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 100,
+    "potencia": 2
+  },
+  "k-NN k=100 manhattan 1/d^3 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 100,
+    "potencia": 3
+  },
+  "k-NN k=3 euclidean 1/d^1 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 3,
+    "potencia": 1
+  },
+  "k-NN k=3 euclidean 1/d^2 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 3,
+    "potencia": 2
+  },
+  "k-NN k=3 euclidean 1/d^3 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 3,
+    "potencia": 3
+  },
+  "k-NN k=5 euclidean 1/d^1 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 5,
+    "potencia": 1
+  },
+  "k-NN k=5 euclidean 1/d^2 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 5,
+    "potencia": 2
+  },
+  "k-NN k=5 euclidean 1/d^3 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 5,
+    "potencia": 3
+  },
+  "k-NN k=7 euclidean 1/d^1 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 7,
+    "potencia": 1
+  },
+  "k-NN k=7 euclidean 1/d^2 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 7,
+    "potencia": 2
+  },
+  "k-NN k=7 euclidean 1/d^3 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 7,
+    "potencia": 3
+  },
+  "k-NN k=9 euclidean 1/d^1 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 9,
+    "potencia": 1
+  },
+  "k-NN k=9 euclidean 1/d^2 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 9,
+    "potencia": 2
+  },
+  "k-NN k=9 euclidean 1/d^3 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 9,
+    "potencia": 3
+  },
+  "k-NN k=15 euclidean 1/d^1 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 15,
+    "potencia": 1
+  },
+  "k-NN k=15 euclidean 1/d^2 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 15,
+    "potencia": 2
+  },
+  "k-NN k=15 euclidean 1/d^3 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 15,
+    "potencia": 3
+  },
+  "k-NN k=25 euclidean 1/d^1 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 25,
+    "potencia": 1
+  },
+  "k-NN k=25 euclidean 1/d^2 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 25,
+    "potencia": 2
+  },
+  "k-NN k=25 euclidean 1/d^3 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 25,
+    "potencia": 3
+  },
+  "k-NN k=35 euclidean 1/d^1 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 35,
+    "potencia": 1
+  },
+  "k-NN k=35 euclidean 1/d^2 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 35,
+    "potencia": 2
+  },
+  "k-NN k=35 euclidean 1/d^3 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 35,
+    "potencia": 3
+  },
+  "k-NN k=50 euclidean 1/d^1 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 50,
+    "potencia": 1
+  },
+  "k-NN k=50 euclidean 1/d^2 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 50,
+    "potencia": 2
+  },
+  "k-NN k=50 euclidean 1/d^3 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 50,
+    "potencia": 3
+  },
+  "k-NN k=75 euclidean 1/d^1 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 75,
+    "potencia": 1
+  },
+  "k-NN k=75 euclidean 1/d^2 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 75,
+    "potencia": 2
+  },
+  "k-NN k=75 euclidean 1/d^3 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 75,
+    "potencia": 3
+  },
+  "k-NN k=100 euclidean 1/d^1 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 100,
+    "potencia": 1
+  },
+  "k-NN k=100 euclidean 1/d^2 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 100,
+    "potencia": 2
+  },
+  "k-NN k=100 euclidean 1/d^3 ratios=1 robust=0 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 100,
+    "potencia": 3
+  },
+  "k-NN k=3 manhattan 1/d^1 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 3,
+    "potencia": 1
+  },
+  "k-NN k=3 manhattan 1/d^2 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 3,
+    "potencia": 2
+  },
+  "k-NN k=3 manhattan 1/d^3 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 3,
+    "potencia": 3
+  },
+  "k-NN k=5 manhattan 1/d^1 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 5,
+    "potencia": 1
+  },
+  "k-NN k=5 manhattan 1/d^2 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 5,
+    "potencia": 2
+  },
+  "k-NN k=5 manhattan 1/d^3 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 5,
+    "potencia": 3
+  },
+  "k-NN k=7 manhattan 1/d^1 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 7,
+    "potencia": 1
+  },
+  "k-NN k=7 manhattan 1/d^2 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 7,
+    "potencia": 2
+  },
+  "k-NN k=7 manhattan 1/d^3 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 7,
+    "potencia": 3
+  },
+  "k-NN k=9 manhattan 1/d^1 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 9,
+    "potencia": 1
+  },
+  "k-NN k=9 manhattan 1/d^2 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 9,
+    "potencia": 2
+  },
+  "k-NN k=9 manhattan 1/d^3 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 9,
+    "potencia": 3
+  },
+  "k-NN k=15 manhattan 1/d^1 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 15,
+    "potencia": 1
+  },
+  "k-NN k=15 manhattan 1/d^2 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 15,
+    "potencia": 2
+  },
+  "k-NN k=15 manhattan 1/d^3 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 15,
+    "potencia": 3
+  },
+  "k-NN k=25 manhattan 1/d^1 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 25,
+    "potencia": 1
+  },
+  "k-NN k=25 manhattan 1/d^2 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 25,
+    "potencia": 2
+  },
+  "k-NN k=25 manhattan 1/d^3 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 25,
+    "potencia": 3
+  },
+  "k-NN k=35 manhattan 1/d^1 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 35,
+    "potencia": 1
+  },
+  "k-NN k=35 manhattan 1/d^2 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 35,
+    "potencia": 2
+  },
+  "k-NN k=35 manhattan 1/d^3 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 35,
+    "potencia": 3
+  },
+  "k-NN k=50 manhattan 1/d^1 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 50,
+    "potencia": 1
+  },
+  "k-NN k=50 manhattan 1/d^2 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 50,
+    "potencia": 2
+  },
+  "k-NN k=50 manhattan 1/d^3 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 50,
+    "potencia": 3
+  },
+  "k-NN k=75 manhattan 1/d^1 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 75,
+    "potencia": 1
+  },
+  "k-NN k=75 manhattan 1/d^2 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 75,
+    "potencia": 2
+  },
+  "k-NN k=75 manhattan 1/d^3 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 75,
+    "potencia": 3
+  },
+  "k-NN k=100 manhattan 1/d^1 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 100,
+    "potencia": 1
+  },
+  "k-NN k=100 manhattan 1/d^2 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 100,
+    "potencia": 2
+  },
+  "k-NN k=100 manhattan 1/d^3 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "manhattan",
+    "k": 100,
+    "potencia": 3
+  },
+  "k-NN k=3 euclidean 1/d^1 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 3,
+    "potencia": 1
+  },
+  "k-NN k=3 euclidean 1/d^2 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 3,
+    "potencia": 2
+  },
+  "k-NN k=3 euclidean 1/d^3 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 3,
+    "potencia": 3
+  },
+  "k-NN k=5 euclidean 1/d^1 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 5,
+    "potencia": 1
+  },
+  "k-NN k=5 euclidean 1/d^2 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 5,
+    "potencia": 2
+  },
+  "k-NN k=5 euclidean 1/d^3 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 5,
+    "potencia": 3
+  },
+  "k-NN k=7 euclidean 1/d^1 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 7,
+    "potencia": 1
+  },
+  "k-NN k=7 euclidean 1/d^2 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 7,
+    "potencia": 2
+  },
+  "k-NN k=7 euclidean 1/d^3 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 7,
+    "potencia": 3
+  },
+  "k-NN k=9 euclidean 1/d^1 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 9,
+    "potencia": 1
+  },
+  "k-NN k=9 euclidean 1/d^2 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 9,
+    "potencia": 2
+  },
+  "k-NN k=9 euclidean 1/d^3 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 9,
+    "potencia": 3
+  },
+  "k-NN k=15 euclidean 1/d^1 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 15,
+    "potencia": 1
+  },
+  "k-NN k=15 euclidean 1/d^2 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 15,
+    "potencia": 2
+  },
+  "k-NN k=15 euclidean 1/d^3 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 15,
+    "potencia": 3
+  },
+  "k-NN k=25 euclidean 1/d^1 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 25,
+    "potencia": 1
+  },
+  "k-NN k=25 euclidean 1/d^2 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 25,
+    "potencia": 2
+  },
+  "k-NN k=25 euclidean 1/d^3 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 25,
+    "potencia": 3
+  },
+  "k-NN k=35 euclidean 1/d^1 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 35,
+    "potencia": 1
+  },
+  "k-NN k=35 euclidean 1/d^2 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 35,
+    "potencia": 2
+  },
+  "k-NN k=35 euclidean 1/d^3 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 35,
+    "potencia": 3
+  },
+  "k-NN k=50 euclidean 1/d^1 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 50,
+    "potencia": 1
+  },
+  "k-NN k=50 euclidean 1/d^2 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 50,
+    "potencia": 2
+  },
+  "k-NN k=50 euclidean 1/d^3 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 50,
+    "potencia": 3
+  },
+  "k-NN k=75 euclidean 1/d^1 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 75,
+    "potencia": 1
+  },
+  "k-NN k=75 euclidean 1/d^2 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 75,
+    "potencia": 2
+  },
+  "k-NN k=75 euclidean 1/d^3 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 75,
+    "potencia": 3
+  },
+  "k-NN k=100 euclidean 1/d^1 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 100,
+    "potencia": 1
+  },
+  "k-NN k=100 euclidean 1/d^2 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 100,
+    "potencia": 2
+  },
+  "k-NN k=100 euclidean 1/d^3 ratios=1 robust=1 PCA=0": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0,
+    "distancia": "euclidean",
+    "k": 100,
+    "potencia": 3
+  },
+  "k-NN k=3 manhattan 1/d^1 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 3,
+    "potencia": 1
+  },
+  "k-NN k=3 manhattan 1/d^2 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 3,
+    "potencia": 2
+  },
+  "k-NN k=3 manhattan 1/d^3 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 3,
+    "potencia": 3
+  },
+  "k-NN k=5 manhattan 1/d^1 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 5,
+    "potencia": 1
+  },
+  "k-NN k=5 manhattan 1/d^2 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 5,
+    "potencia": 2
+  },
+  "k-NN k=5 manhattan 1/d^3 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 5,
+    "potencia": 3
+  },
+  "k-NN k=7 manhattan 1/d^1 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 7,
+    "potencia": 1
+  },
+  "k-NN k=7 manhattan 1/d^2 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 7,
+    "potencia": 2
+  },
+  "k-NN k=7 manhattan 1/d^3 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 7,
+    "potencia": 3
+  },
+  "k-NN k=9 manhattan 1/d^1 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 9,
+    "potencia": 1
+  },
+  "k-NN k=9 manhattan 1/d^2 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 9,
+    "potencia": 2
+  },
+  "k-NN k=9 manhattan 1/d^3 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 9,
+    "potencia": 3
+  },
+  "k-NN k=15 manhattan 1/d^1 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 15,
+    "potencia": 1
+  },
+  "k-NN k=15 manhattan 1/d^2 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 15,
+    "potencia": 2
+  },
+  "k-NN k=15 manhattan 1/d^3 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 15,
+    "potencia": 3
+  },
+  "k-NN k=25 manhattan 1/d^1 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 25,
+    "potencia": 1
+  },
+  "k-NN k=25 manhattan 1/d^2 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 25,
+    "potencia": 2
+  },
+  "k-NN k=25 manhattan 1/d^3 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 25,
+    "potencia": 3
+  },
+  "k-NN k=35 manhattan 1/d^1 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 35,
+    "potencia": 1
+  },
+  "k-NN k=35 manhattan 1/d^2 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 35,
+    "potencia": 2
+  },
+  "k-NN k=35 manhattan 1/d^3 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 35,
+    "potencia": 3
+  },
+  "k-NN k=50 manhattan 1/d^1 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 50,
+    "potencia": 1
+  },
+  "k-NN k=50 manhattan 1/d^2 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 50,
+    "potencia": 2
+  },
+  "k-NN k=50 manhattan 1/d^3 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 50,
+    "potencia": 3
+  },
+  "k-NN k=75 manhattan 1/d^1 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 75,
+    "potencia": 1
+  },
+  "k-NN k=75 manhattan 1/d^2 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 75,
+    "potencia": 2
+  },
+  "k-NN k=75 manhattan 1/d^3 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 75,
+    "potencia": 3
+  },
+  "k-NN k=100 manhattan 1/d^1 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 100,
+    "potencia": 1
+  },
+  "k-NN k=100 manhattan 1/d^2 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 100,
+    "potencia": 2
+  },
+  "k-NN k=100 manhattan 1/d^3 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "manhattan",
+    "k": 100,
+    "potencia": 3
+  },
+  "k-NN k=3 euclidean 1/d^1 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 3,
+    "potencia": 1
+  },
+  "k-NN k=3 euclidean 1/d^2 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 3,
+    "potencia": 2
+  },
+  "k-NN k=3 euclidean 1/d^3 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 3,
+    "potencia": 3
+  },
+  "k-NN k=5 euclidean 1/d^1 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 5,
+    "potencia": 1
+  },
+  "k-NN k=5 euclidean 1/d^2 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 5,
+    "potencia": 2
+  },
+  "k-NN k=5 euclidean 1/d^3 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 5,
+    "potencia": 3
+  },
+  "k-NN k=7 euclidean 1/d^1 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 7,
+    "potencia": 1
+  },
+  "k-NN k=7 euclidean 1/d^2 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 7,
+    "potencia": 2
+  },
+  "k-NN k=7 euclidean 1/d^3 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 7,
+    "potencia": 3
+  },
+  "k-NN k=9 euclidean 1/d^1 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 9,
+    "potencia": 1
+  },
+  "k-NN k=9 euclidean 1/d^2 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 9,
+    "potencia": 2
+  },
+  "k-NN k=9 euclidean 1/d^3 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 9,
+    "potencia": 3
+  },
+  "k-NN k=15 euclidean 1/d^1 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 15,
+    "potencia": 1
+  },
+  "k-NN k=15 euclidean 1/d^2 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 15,
+    "potencia": 2
+  },
+  "k-NN k=15 euclidean 1/d^3 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 15,
+    "potencia": 3
+  },
+  "k-NN k=25 euclidean 1/d^1 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 25,
+    "potencia": 1
+  },
+  "k-NN k=25 euclidean 1/d^2 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 25,
+    "potencia": 2
+  },
+  "k-NN k=25 euclidean 1/d^3 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 25,
+    "potencia": 3
+  },
+  "k-NN k=35 euclidean 1/d^1 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 35,
+    "potencia": 1
+  },
+  "k-NN k=35 euclidean 1/d^2 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 35,
+    "potencia": 2
+  },
+  "k-NN k=35 euclidean 1/d^3 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 35,
+    "potencia": 3
+  },
+  "k-NN k=50 euclidean 1/d^1 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 50,
+    "potencia": 1
+  },
+  "k-NN k=50 euclidean 1/d^2 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 50,
+    "potencia": 2
+  },
+  "k-NN k=50 euclidean 1/d^3 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 50,
+    "potencia": 3
+  },
+  "k-NN k=75 euclidean 1/d^1 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 75,
+    "potencia": 1
+  },
+  "k-NN k=75 euclidean 1/d^2 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 75,
+    "potencia": 2
+  },
+  "k-NN k=75 euclidean 1/d^3 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 75,
+    "potencia": 3
+  },
+  "k-NN k=100 euclidean 1/d^1 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 100,
+    "potencia": 1
+  },
+  "k-NN k=100 euclidean 1/d^2 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 100,
+    "potencia": 2
+  },
+  "k-NN k=100 euclidean 1/d^3 ratios=1 robust=1 PCA=0.95": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": true,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 100,
+    "potencia": 3
+  },
+  "SVM rbf C=3 gamma=scale balance=False ratios=1 robust=0 PCA=0": {
+    "familia": "SVM",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "kernel": "rbf",
+    "C": 3,
+    "gamma": "scale",
+    "balance": false
+  },
+  "SVM rbf C=3 gamma=scale balance=True ratios=1 robust=0 PCA=0": {
+    "familia": "SVM",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "kernel": "rbf",
+    "C": 3,
+    "gamma": "scale",
+    "balance": true
+  },
+  "SVM rbf C=3 gamma=0.3 balance=False ratios=1 robust=0 PCA=0": {
+    "familia": "SVM",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "kernel": "rbf",
+    "C": 3,
+    "gamma": 0.3,
+    "balance": false
+  },
+  "SVM rbf C=3 gamma=0.3 balance=True ratios=1 robust=0 PCA=0": {
+    "familia": "SVM",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "kernel": "rbf",
+    "C": 3,
+    "gamma": 0.3,
+    "balance": true
+  },
+  "SVM rbf C=10 gamma=scale balance=False ratios=1 robust=0 PCA=0": {
+    "familia": "SVM",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "kernel": "rbf",
+    "C": 10,
+    "gamma": "scale",
+    "balance": false
+  },
+  "SVM rbf C=10 gamma=scale balance=True ratios=1 robust=0 PCA=0": {
+    "familia": "SVM",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "kernel": "rbf",
+    "C": 10,
+    "gamma": "scale",
+    "balance": true
+  },
+  "SVM rbf C=10 gamma=0.3 balance=False ratios=1 robust=0 PCA=0": {
+    "familia": "SVM",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "kernel": "rbf",
+    "C": 10,
+    "gamma": 0.3,
+    "balance": false
+  },
+  "SVM rbf C=10 gamma=0.3 balance=True ratios=1 robust=0 PCA=0": {
+    "familia": "SVM",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "kernel": "rbf",
+    "C": 10,
+    "gamma": 0.3,
+    "balance": true
+  },
+  "SVM rbf C=50 gamma=scale balance=False ratios=1 robust=0 PCA=0": {
+    "familia": "SVM",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "kernel": "rbf",
+    "C": 50,
+    "gamma": "scale",
+    "balance": false
+  },
+  "SVM rbf C=50 gamma=scale balance=True ratios=1 robust=0 PCA=0": {
+    "familia": "SVM",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "kernel": "rbf",
+    "C": 50,
+    "gamma": "scale",
+    "balance": true
+  },
+  "SVM rbf C=50 gamma=0.3 balance=False ratios=1 robust=0 PCA=0": {
+    "familia": "SVM",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "kernel": "rbf",
+    "C": 50,
+    "gamma": 0.3,
+    "balance": false
+  },
+  "SVM rbf C=50 gamma=0.3 balance=True ratios=1 robust=0 PCA=0": {
+    "familia": "SVM",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "kernel": "rbf",
+    "C": 50,
+    "gamma": 0.3,
+    "balance": true
+  },
+  "SVM rbf C=3 gamma=scale balance=False ratios=0 robust=0 PCA=0": {
+    "familia": "SVM",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "kernel": "rbf",
+    "C": 3,
+    "gamma": "scale",
+    "balance": false
+  },
+  "SVM rbf C=3 gamma=scale balance=True ratios=0 robust=0 PCA=0": {
+    "familia": "SVM",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "kernel": "rbf",
+    "C": 3,
+    "gamma": "scale",
+    "balance": true
+  },
+  "SVM rbf C=3 gamma=0.3 balance=False ratios=0 robust=0 PCA=0": {
+    "familia": "SVM",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "kernel": "rbf",
+    "C": 3,
+    "gamma": 0.3,
+    "balance": false
+  },
+  "SVM rbf C=3 gamma=0.3 balance=True ratios=0 robust=0 PCA=0": {
+    "familia": "SVM",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "kernel": "rbf",
+    "C": 3,
+    "gamma": 0.3,
+    "balance": true
+  },
+  "SVM rbf C=10 gamma=scale balance=False ratios=0 robust=0 PCA=0": {
+    "familia": "SVM",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "kernel": "rbf",
+    "C": 10,
+    "gamma": "scale",
+    "balance": false
+  },
+  "SVM rbf C=10 gamma=scale balance=True ratios=0 robust=0 PCA=0": {
+    "familia": "SVM",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "kernel": "rbf",
+    "C": 10,
+    "gamma": "scale",
+    "balance": true
+  },
+  "SVM rbf C=10 gamma=0.3 balance=False ratios=0 robust=0 PCA=0": {
+    "familia": "SVM",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "kernel": "rbf",
+    "C": 10,
+    "gamma": 0.3,
+    "balance": false
+  },
+  "SVM rbf C=10 gamma=0.3 balance=True ratios=0 robust=0 PCA=0": {
+    "familia": "SVM",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "kernel": "rbf",
+    "C": 10,
+    "gamma": 0.3,
+    "balance": true
+  },
+  "SVM rbf C=50 gamma=scale balance=False ratios=0 robust=0 PCA=0": {
+    "familia": "SVM",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "kernel": "rbf",
+    "C": 50,
+    "gamma": "scale",
+    "balance": false
+  },
+  "SVM rbf C=50 gamma=scale balance=True ratios=0 robust=0 PCA=0": {
+    "familia": "SVM",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "kernel": "rbf",
+    "C": 50,
+    "gamma": "scale",
+    "balance": true
+  },
+  "SVM rbf C=50 gamma=0.3 balance=False ratios=0 robust=0 PCA=0": {
+    "familia": "SVM",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "kernel": "rbf",
+    "C": 50,
+    "gamma": 0.3,
+    "balance": false
+  },
+  "SVM rbf C=50 gamma=0.3 balance=True ratios=0 robust=0 PCA=0": {
+    "familia": "SVM",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "kernel": "rbf",
+    "C": 50,
+    "gamma": 0.3,
+    "balance": true
+  },
+  "SVM rbf C=3 gamma=scale balance=False ratios=1 robust=0 PCA=0.95": {
+    "familia": "SVM",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "kernel": "rbf",
+    "C": 3,
+    "gamma": "scale",
+    "balance": false
+  },
+  "SVM rbf C=3 gamma=scale balance=True ratios=1 robust=0 PCA=0.95": {
+    "familia": "SVM",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "kernel": "rbf",
+    "C": 3,
+    "gamma": "scale",
+    "balance": true
+  },
+  "SVM rbf C=3 gamma=0.3 balance=False ratios=1 robust=0 PCA=0.95": {
+    "familia": "SVM",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "kernel": "rbf",
+    "C": 3,
+    "gamma": 0.3,
+    "balance": false
+  },
+  "SVM rbf C=3 gamma=0.3 balance=True ratios=1 robust=0 PCA=0.95": {
+    "familia": "SVM",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "kernel": "rbf",
+    "C": 3,
+    "gamma": 0.3,
+    "balance": true
+  },
+  "SVM rbf C=10 gamma=scale balance=False ratios=1 robust=0 PCA=0.95": {
+    "familia": "SVM",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "kernel": "rbf",
+    "C": 10,
+    "gamma": "scale",
+    "balance": false
+  },
+  "SVM rbf C=10 gamma=scale balance=True ratios=1 robust=0 PCA=0.95": {
+    "familia": "SVM",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "kernel": "rbf",
+    "C": 10,
+    "gamma": "scale",
+    "balance": true
+  },
+  "SVM rbf C=10 gamma=0.3 balance=False ratios=1 robust=0 PCA=0.95": {
+    "familia": "SVM",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "kernel": "rbf",
+    "C": 10,
+    "gamma": 0.3,
+    "balance": false
+  },
+  "SVM rbf C=10 gamma=0.3 balance=True ratios=1 robust=0 PCA=0.95": {
+    "familia": "SVM",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "kernel": "rbf",
+    "C": 10,
+    "gamma": 0.3,
+    "balance": true
+  },
+  "SVM rbf C=50 gamma=scale balance=False ratios=1 robust=0 PCA=0.95": {
+    "familia": "SVM",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "kernel": "rbf",
+    "C": 50,
+    "gamma": "scale",
+    "balance": false
+  },
+  "SVM rbf C=50 gamma=scale balance=True ratios=1 robust=0 PCA=0.95": {
+    "familia": "SVM",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "kernel": "rbf",
+    "C": 50,
+    "gamma": "scale",
+    "balance": true
+  },
+  "SVM rbf C=50 gamma=0.3 balance=False ratios=1 robust=0 PCA=0.95": {
+    "familia": "SVM",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "kernel": "rbf",
+    "C": 50,
+    "gamma": 0.3,
+    "balance": false
+  },
+  "SVM rbf C=50 gamma=0.3 balance=True ratios=1 robust=0 PCA=0.95": {
+    "familia": "SVM",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "kernel": "rbf",
+    "C": 50,
+    "gamma": 0.3,
+    "balance": true
+  },
+  "SVM linear C=0.3 gamma=scale balance=False ratios=1 robust=0 PCA=0": {
+    "familia": "SVM",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "kernel": "linear",
+    "C": 0.3,
+    "gamma": "scale",
+    "balance": false
+  },
+  "SVM linear C=0.3 gamma=scale balance=True ratios=1 robust=0 PCA=0": {
+    "familia": "SVM",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "kernel": "linear",
+    "C": 0.3,
+    "gamma": "scale",
+    "balance": true
+  },
+  "SVM linear C=3 gamma=scale balance=False ratios=1 robust=0 PCA=0": {
+    "familia": "SVM",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "kernel": "linear",
+    "C": 3,
+    "gamma": "scale",
+    "balance": false
+  },
+  "SVM linear C=3 gamma=scale balance=True ratios=1 robust=0 PCA=0": {
+    "familia": "SVM",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "kernel": "linear",
+    "C": 3,
+    "gamma": "scale",
+    "balance": true
+  },
+  "SVM poly C=0.3 gamma=scale balance=False ratios=1 robust=0 PCA=0": {
+    "familia": "SVM",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "kernel": "poly",
+    "C": 0.3,
+    "gamma": "scale",
+    "balance": false
+  },
+  "SVM poly C=0.3 gamma=scale balance=True ratios=1 robust=0 PCA=0": {
+    "familia": "SVM",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "kernel": "poly",
+    "C": 0.3,
+    "gamma": "scale",
+    "balance": true
+  },
+  "SVM poly C=3 gamma=scale balance=False ratios=1 robust=0 PCA=0": {
+    "familia": "SVM",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "kernel": "poly",
+    "C": 3,
+    "gamma": "scale",
+    "balance": false
+  },
+  "SVM poly C=3 gamma=scale balance=True ratios=1 robust=0 PCA=0": {
+    "familia": "SVM",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "kernel": "poly",
+    "C": 3,
+    "gamma": "scale",
+    "balance": true
+  },
+  "MLP [32, 16] relu alpha=0.001 lr=0.001 balance=False ratios=1 robust=0 PCA=0": {
+    "familia": "MLP",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "capas": [
+      32,
+      16
+    ],
+    "act": "relu",
+    "alpha": 0.001,
+    "lr": 0.001,
+    "balance": false
+  },
+  "MLP [64, 32] relu alpha=0.001 lr=0.001 balance=True ratios=1 robust=0 PCA=0": {
+    "familia": "MLP",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "capas": [
+      64,
+      32
+    ],
+    "act": "relu",
+    "alpha": 0.001,
+    "lr": 0.001,
+    "balance": true
+  },
+  "MLP [64, 32] tanh alpha=0.01 lr=0.001 balance=True ratios=1 robust=0 PCA=0": {
+    "familia": "MLP",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "capas": [
+      64,
+      32
+    ],
+    "act": "tanh",
+    "alpha": 0.01,
+    "lr": 0.001,
+    "balance": true
+  },
+  "MLP [128, 64] relu alpha=0.0001 lr=0.001 balance=False ratios=1 robust=0 PCA=0": {
+    "familia": "MLP",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "capas": [
+      128,
+      64
+    ],
+    "act": "relu",
+    "alpha": 0.0001,
+    "lr": 0.001,
+    "balance": false
+  },
+  "MLP [64, 32] relu alpha=0.001 lr=0.003 balance=True ratios=1 robust=0 PCA=0": {
+    "familia": "MLP",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "capas": [
+      64,
+      32
+    ],
+    "act": "relu",
+    "alpha": 0.001,
+    "lr": 0.003,
+    "balance": true
+  },
+  "MLP [64, 32] relu alpha=0.01 lr=0.001 balance=False ratios=0 robust=0 PCA=0": {
+    "familia": "MLP",
+    "ratios": false,
+    "robust": false,
+    "pca": 0,
+    "capas": [
+      64,
+      32
+    ],
+    "act": "relu",
+    "alpha": 0.01,
+    "lr": 0.001,
+    "balance": false
+  },
+  "MLP [64, 32] tanh alpha=0.001 lr=0.003 balance=False ratios=1 robust=0 PCA=0": {
+    "familia": "MLP",
+    "ratios": true,
+    "robust": false,
+    "pca": 0,
+    "capas": [
+      64,
+      32
+    ],
+    "act": "tanh",
+    "alpha": 0.001,
+    "lr": 0.003,
+    "balance": false
+  },
+  "MLP [64, 32] relu alpha=0.001 lr=0.001 balance=True ratios=1 robust=0 PCA=0.95": {
+    "familia": "MLP",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "capas": [
+      64,
+      32
+    ],
+    "act": "relu",
+    "alpha": 0.001,
+    "lr": 0.001,
+    "balance": true
+  },
+  "MLP [64, 32] tanh alpha=0.01 lr=0.001 balance=False ratios=0 robust=0 PCA=0.95": {
+    "familia": "MLP",
+    "ratios": false,
+    "robust": false,
+    "pca": 0.95,
+    "capas": [
+      64,
+      32
+    ],
+    "act": "tanh",
+    "alpha": 0.01,
+    "lr": 0.001,
+    "balance": false
+  }
+}
