@@ -1,0 +1,47 @@
+{
+  "configuraciones": 54,
+  "ajustes_cv": 162,
+  "mejor": {
+    "config": 26,
+    "ratios": false,
+    "pca": 0.95,
+    "k": 50,
+    "distancia": "manhattan",
+    "pesos": "distance",
+    "f1_macro": 0.8261714818689279,
+    "accuracy": 0.9148424344479191,
+    "precision_1": 0.7927756653992395,
+    "recall_1": 0.6299093655589124,
+    "f1_1": 0.702020202020202,
+    "f1_media_folds": 0.8262469401991129,
+    "f1_std_folds": 0.0065475490990561745,
+    "componentes_media": 9.0,
+    "varianza_media": 0.97584781014461,
+    "ajuste_medio_s": 0.006479572666952056,
+    "inferencia_media_s": 0.05359330166690294,
+    "tiempo_total_s": 0.19765655099945434
+  },
+  "baseline_f1": 0.7888706998400041,
+  "mejora_pp": 3.730078202892373,
+  "matriz_confusion_oof": [
+    [
+      3386,
+      109
+    ],
+    [
+      245,
+      417
+    ]
+  ],
+  "auditoria_grupos": {
+    "f1_macro": 0.7960345866071885,
+    "accuracy": 0.9023334135193649,
+    "precision_1": 0.7591093117408907,
+    "recall_1": 0.5664652567975831,
+    "f1_1": 0.6487889273356401
+  },
+  "tiempo_busqueda_s": 8.231377342999622,
+  "tiempo_auditoria_s": 0.4724117200003093,
+  "tiempo_momento4_s": 9.11945054500029,
+  "n_auditoria_reservada": 1040
+}
