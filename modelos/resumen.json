@@ -1,0 +1,77 @@
+{
+  "ganador": "k-NN k=100 euclidean 1/d^3 ratios=1 robust=0 PCA=0.95",
+  "configuracion": {
+    "familia": "k-NN",
+    "ratios": true,
+    "robust": false,
+    "pca": 0.95,
+    "distancia": "euclidean",
+    "k": 100,
+    "potencia": 3
+  },
+  "umbral": 0.4000000000000002,
+  "cv_mejor": 0.8503568930760687,
+  "cv_baseline": 0.7888706998400041,
+  "cv_feature_pca": 0.8261714818689279,
+  "holdout": {
+    "f1_macro": 0.865922018183037,
+    "accuracy": 0.9278846153846154,
+    "precision_1": 0.7724550898203593,
+    "recall_1": 0.7771084337349398,
+    "f1_1": 0.7747747747747747,
+    "average_precision": 0.8349778438105652,
+    "matriz_confusion": [
+      [
+        836,
+        38
+      ],
+      [
+        37,
+        129
+      ]
+    ]
+  },
+  "auditoria_grupos": {
+    "f1_macro": 0.8105494918515357,
+    "accuracy": 0.8987250420976666,
+    "precision_1": 0.6828528072837633,
+    "recall_1": 0.6797583081570997,
+    "f1_1": 0.6813020439061317,
+    "average_precision": 0.7445945525736739
+  },
+  "n_dev": 4157,
+  "n_holdout": 1040,
+  "n_train_final": 5197,
+  "n_test": 1300,
+  "predicciones_0": 1073,
+  "predicciones_1": 227,
+  "componentes": 9,
+  "varianza_pca": 0.9583994928803587,
+  "sha256": "dcbd7536dd31a420f95205dedef58469cd57f5ce7f8fbd30c90dfecc39a053b8",
+  "configuraciones_por_etapa": [
+    6,
+    54,
+    533
+  ],
+  "nota_validacion": "Holdout separado del ajuste y selección de esta secuencia; ya fue consultado en el prototipo inicial y el EDA global usó train completo. No equivale a una evaluación ciega ni al leaderboard.",
+  "tiempos_s": {
+    "carga_y_seleccion_s": 0.01591164799992839,
+    "ajuste_auditoria_s": 0.012218017999657604,
+    "inferencia_auditoria_s": 0.060878143000081764,
+    "metricas_auditoria_s": 0.0061152240004958,
+    "ajuste_final_s": 0.015671344999645953,
+    "inferencia_test_s": 0.08317819500007317,
+    "guardar_modelo_csv_s": 0.02500732600037736,
+    "verificacion_csv_modelo_s": 0.09051574799923401,
+    "reportes_s": 0.19716399499975523,
+    "total_momento6_s": 0.526496004999899
+  },
+  "tiempos_acumulados_s": {
+    "momento2_eda": 2.183417653000106,
+    "momento3_baseline": 1.5751097800002754,
+    "momento4_feature_pca": 9.42323410300014,
+    "momento5_avanzado": 38.051364611999816,
+    "momento6_cierre": 0.526496004999899
+  },
+  "tiempo_computacional_acumulado_s": 51.75962215300024
+}
