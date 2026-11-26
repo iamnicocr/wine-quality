@@ -1,0 +1,20 @@
+{
+  "filas_train": 5197,
+  "filas_test": 1300,
+  "predictores": 11,
+  "clase_0": 4369,
+  "clase_1": 828,
+  "duplicados_train": 807,
+  "perfiles_etiquetas_distintas": 1,
+  "nulos_train": 0,
+  "nulos_test": 0,
+  "tiempos_s": {
+    "carga_y_validacion_s": 0.016514560999894456,
+    "control_calidad_s": 0.012466578999919875,
+    "distribucion_clases_s": 0.14332415099988793,
+    "distribuciones_y_extremos_s": 1.2564895499999693,
+    "correlaciones_s": 0.7649670999999216,
+    "guardar_tablas_s": 0.0033218380001471814,
+    "total_eda_s": 2.2475095939998937
+  }
+}
